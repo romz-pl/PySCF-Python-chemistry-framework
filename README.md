@@ -138,3 +138,11 @@ Documentation, tutorials, and examples are maintained alongside the code, and th
 ## Summary
 
 PySCF is a flexible, open-source framework that brings quantum chemistry into the Python ecosystem. Its combination of readable Python code, performance-critical C kernels, and a broad method portfolio makes it well suited for method development, teaching, custom workflows, and research that blends electronic structure with data science. It is less suited to users who want a turnkey graphical application or the absolute highest throughput on massive production runs, but for scientists who want to understand and extend their calculations, it is one of the most accessible options available.
+
+
+## Bibliography
+
++ **The Python simulations of chemistry framework: 10 years of an open-source quantum chemistry project**, [J. Chem. Phys. 165, 102502 (2026)](https://doi.org/10.1063/5.0337441)
+
++ **PySCF: the Python-based simulations of chemistry framework**, [WIREs Comput Mol Sci, 8: e1340 (2018)](https://doi.org/10.1002/wcms.1340)
+
